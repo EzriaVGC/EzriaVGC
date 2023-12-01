@@ -1,6 +1,6 @@
-Hola, mi nombre es Ezria, soy un **Desarrollador Web & Programador Junior**.
+## Hola, mi nombre es Ezria, soy un **Desarrollador Web & Programador Junior**.
 
-![https://github.com/EzriaVGC]
+[https://github.com/EzriaVGC]
 
 Además de mi pasión por la programación, también soy un **Jugador Profesional de Pokémon UNITE** y capitán del equipo **Dark Wings**.
 </br></br>
